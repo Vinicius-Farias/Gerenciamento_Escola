@@ -1,0 +1,14 @@
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe.config
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.pdb
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.frmCadastro.resources
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.frmPrincipal.resources
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Properties.Resources.resources
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.GenerateResource.cache
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.exe
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.pdb
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.frmEdicao.resources
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.frmPesquisar.resources
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.frmSeleciona.resources
