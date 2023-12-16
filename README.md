@@ -1,6 +1,7 @@
 # Projeto Gerenciamento de Escola 
 Para utilizar esse projeto primeiramente crie o banco de dados do projeto todos os 
-códigos necessários para criar o banco de dados e a tabelas esta na pasta bancodeDados
+códigos necessários para criar o banco de dados e a tabelas esta na pasta bancodeDados,
+user o SQLEXPLES e o SQL Server Management Studio
 ## Atenção 
 A função de enviar e-mail para o usuário conseguir fazer a recuperação da senha não estará
 funcionando para usar esse recurso você vai ter que modifica o código botando seu e-mail e 
