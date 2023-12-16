@@ -1,0 +1,9 @@
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\obj\Debug\RegraNegocio.csproj.CopyComplete
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\RegraNegocio\obj\Debug\RegraNegocio.pdb

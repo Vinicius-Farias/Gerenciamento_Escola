@@ -1,6 +1,0 @@
-C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\AcessoDados\bin\Debug\AcessoDados.dll
-C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\AcessoDados\bin\Debug\AcessoDados.pdb
-C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\AcessoDados\obj\Debug\AcessoDados.csproj.AssemblyReference.cache
-C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\AcessoDados\obj\Debug\AcessoDados.csproj.CoreCompileInputs.cache
-C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\AcessoDados\obj\Debug\AcessoDados.dll
-C:\Users\Vinicius\OneDrive\Documentos\teste\ProjetoEscola\AcessoDados\obj\Debug\AcessoDados.pdb
